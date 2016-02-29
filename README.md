@@ -9,5 +9,5 @@ It takes an input matrix in which the columns are species and each row is the re
 groupedSurveys.pl surveysFile outputFileName #replicates #surveys
 
 The survey file is the input matrix
-#replicates is the number of times to repeat the bootstraping.
-#surveys is the number of surveys in the input to combine.
+replicates is the number of times to repeat the bootstraping.
+surveys is the number of surveys in the input to combine.
