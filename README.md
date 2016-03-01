@@ -5,7 +5,8 @@ The rational is that false-positive observations can be reduced by combining the
 
 It takes an input matrix in which the columns are species and each row is the results of a survey. Where a species was not found in the survey the value in the column is 0. A 1 signifies that the species was correctly observered in the survey. A 2 signifies that the species was observed in the survey, but was, in fact, absent.
 
-##usage
+usage
+-----------
 groupedSurveys.pl surveysFile outputFileName #replicates #surveys
 
 The survey file is the input matrix.  
